@@ -3,7 +3,7 @@
 
 # The license for this script can be found here:
 # https://raw.githubusercontent.com/JessSystemV/EmailHide/main/LICENSE
-# DO NOT REMOVE THIS NOTICE!
+# DO NOT REMOVE THIS NOTICE UNDER PENALTY OF SEX CHANGE OPERATION!
 
 # Conceived and feverishly written on the 11th of January, 2024
 
